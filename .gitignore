@@ -1,0 +1,9 @@
+.idea/3D.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+build/
+node_modules/
+package-lock.json
