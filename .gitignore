@@ -5,5 +5,6 @@
 .idea/watcherTasks.xml
 .idea/workspace.xml
 build/
+!build/index.html
 node_modules/
 package-lock.json

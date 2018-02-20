@@ -16,16 +16,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "all": "0.0.0",
     "express": "^4.16.2",
-    "nodemon": "^1.14.11",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "three": "^0.89.0",
     "lodash": "^4.17.4",
     "moment": "^2.19.2",
     "node-sass": "^4.6.1",
+    "nodemon": "^1.14.11",
     "npm-run": "^4.1.2",
-    "all": "0.0.0"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "three": "^0.89.0",
+    "three-trackballcontrols": "0.0.7"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
